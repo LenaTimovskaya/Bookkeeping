@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel datamodelDbId="null">
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138596076755889" entityLocationX="19" entityLocationY="5" entityWidth="150" tableName="Bookkeeping"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138596106248043" entityLocationX="346" entityLocationY="32" entityWidth="150" tableName="Communication"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138596085103759" entityLocationX="568" entityLocationY="119" entityWidth="150" tableName="Post"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138596114809351" entityLocationX="295" entityLocationY="284" entityWidth="150" tableName="Time"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138596099844258" entityLocationX="806" entityLocationY="65" entityWidth="150" tableName="Subdivision"/>
+</datamodel>

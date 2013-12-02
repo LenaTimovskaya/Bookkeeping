@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel>
+  <parametersEntity entityHeight="200" entityIconified="false" entityLocationX="8" entityLocationY="7" entityWidth="150"/>
+  <entity Title="POST" entityHeight="200" entityIconified="false" entityId="138596142144456" entityLocationX="199" entityLocationY="7" entityWidth="150" tableAlias="t1" tableName="POST" tableSchemaName=""/>
+</datamodel>

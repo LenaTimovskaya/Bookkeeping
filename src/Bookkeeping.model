@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel>
+  <parametersEntity entityHeight="200" entityIconified="false" entityLocationX="12" entityLocationY="12" entityWidth="150"/>
+  <entity Name="worker" Title="Worker" entityHeight="200" entityIconified="false" entityId="138596229130647" entityLocationX="455" entityLocationY="32" entityWidth="150" queryId="Worker" tableName="" tableSchemaName=""/>
+  <entity Name="post" Title="Post" entityHeight="200" entityIconified="false" entityId="138596228640135" entityLocationX="202" entityLocationY="17" entityWidth="150" queryId="Post" tableName="" tableSchemaName=""/>
+  <referenceRelation leftEntityFieldName="POSTID" leftEntityId="138596229130647" rightEntityFieldName="POST_ID" rightEntityId="138596228640135"/>
+</datamodel>
